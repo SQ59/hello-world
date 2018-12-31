@@ -1,2 +1,5 @@
 # hello-world
-learning git
+
+Hello Beings!
+
+greeting to all
